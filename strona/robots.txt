@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://charpy.dydko1.cba.pl/sitemap.xml
