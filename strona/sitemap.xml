@@ -2,12 +2,12 @@
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>http://charpy.dydko1.cba.pl</loc>
+    <loc>https://dydko1.github.io/</loc>
     <lastmod>2020-12-17</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://charpy.dydko1.cba.pl/strona/spis.html</loc>
+    <loc>https://dydko1.github.io/strona/spis.html</loc>
     <lastmod>2020-12-17</lastmod>
     <changefreq>weekly</changefreq>
   </url>
